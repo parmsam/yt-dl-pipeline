@@ -1,4 +1,4 @@
-pt# Pipeline to download youtube videos of interest
+# Pipeline to download youtube videos of interest
 
 ## Requirements
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
