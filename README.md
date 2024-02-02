@@ -19,6 +19,6 @@ chmod +x *.sh
 
 4. Usage (run scripts) in terminal
 ```
-./download_videos.sh
+./run.sh
 ```
 
