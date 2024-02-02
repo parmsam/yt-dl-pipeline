@@ -2,4 +2,4 @@
 
 # download subtitles for the videos
 echo "Downloading subtitles for the videos"
-yt-dlp -a video_links.txt --write-sub --skip-download
+yt-dlp -a video_links.txt --write-sub --skip-download --write-auto-subs --sub-langs=en.*
